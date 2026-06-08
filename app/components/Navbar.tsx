@@ -42,7 +42,7 @@ export function Navbar() {
               <div className="absolute -inset-0.5 rounded-xl bg-gradient-to-br from-brand-400 to-accent-500 opacity-0 group-hover:opacity-30 blur transition-opacity duration-300" />
             </div>
             <span className="font-display text-lg font-bold tracking-tight text-slate-900 dark:text-white">
-              ClearCut<span className="text-brand-500">AI</span>
+              BG Remover<span className="text-brand-500">AI</span>
             </span>
           </motion.a>
 
