@@ -3,12 +3,12 @@ import './globals.css'
 import { Toaster } from 'react-hot-toast'
 
 export const metadata: Metadata = {
-  title: 'ClearCut AI — Remove Backgrounds Instantly',
+  title: 'BG Remover AI — Remove Backgrounds Instantly',
   description: 'Upload any image and remove the background in seconds using AI-powered processing. Get crystal-clear transparent PNG results instantly.',
   keywords: ['background remover', 'AI background removal', 'transparent PNG', 'remove.bg', 'image processing'],
-  authors: [{ name: 'ClearCut AI' }],
+  authors: [{ name: 'BG Remover AI' }],
   openGraph: {
-    title: 'ClearCut AI — Remove Backgrounds Instantly',
+    title: 'BG Remover AI — Remove Backgrounds Instantly',
     description: 'AI-powered background removal. Upload any image, get a transparent PNG in seconds.',
     type: 'website',
   },
