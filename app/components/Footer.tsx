@@ -15,7 +15,7 @@ export function Footer() {
                 <Sparkles className="w-4 h-4 text-white" />
               </div>
               <span className="font-display text-lg font-bold text-slate-900 dark:text-white">
-                ClearCut<span className="text-brand-500">AI</span>
+                BG Remover<span className="text-brand-500">AI</span>
               </span>
             </div>
             <p className="text-sm text-slate-500 dark:text-slate-400 leading-relaxed max-w-xs">
@@ -69,7 +69,7 @@ export function Footer() {
             Made with <Heart className="w-3.5 h-3.5 text-red-400 fill-red-400" /> using tech by TensorLab
           </p>
           <p className="text-xs text-slate-400 dark:text-slate-500">
-            © {new Date().getFullYear()} ClearCut AI. All rights reserved.
+            © {new Date().getFullYear()} BG Remover AI. All rights reserved.
           </p>
         </div>
       </div>
