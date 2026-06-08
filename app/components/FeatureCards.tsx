@@ -78,7 +78,7 @@ export function FeatureCards() {
         >
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 text-sm font-medium mb-4">
             <Sparkles className="w-3.5 h-3.5 text-brand-500" />
-            Why choose ClearCut AI
+            Why choose BG Remover AI
           </div>
           <h2 className="font-display text-4xl sm:text-5xl font-bold text-slate-900 dark:text-white tracking-tight mb-4">
             Everything you need,{' '}
